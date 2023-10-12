@@ -12,21 +12,18 @@ This repository contains a list of free to use APIs for several AI models.
 
 | Service                                       | Link                                                                                                  | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | NSFW Ok? | Stable? | GPT-4 Limits | Additional Notes |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------- | ------ | --------- | --- | --- | --- | --- | ---- | --- | -- | -- |
-| [zukijourney](https://zukijourney.xyzbot.net) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ❌<sup>5</sup>      | ❌<sup>5</sup>     |    ✅       | ✅  | ✅  | ✅  | ✅  | Yes <sup>1</sup> | High | 3/min fixed | Made by [@zukixa](https://github.com/zukixa)|
 | [NovaAI](https://nova-oss.com)                | [D](https://discord.nova-oss.com) [T](https://t.me/nova_gpt) [G](https://github.com/novaoss/nova-api) | ✅      |  ✅   |    ❌       | ✅  | ❌  | ❌  | ✅  | No | Meh | credit-system | Fully open source! Made by [@nsde](https://github.com/nsde)
 | WebRaft AI                                    | [D](https://discord.gg/XwxUdHhF59)                                                                    | ❌      | ❌     |    ✅        | ✅  | ❌  | ✅  | ✅  | No | High | 500/day fixed | Skailar partner |
 | [Naga AI](https://naga.ac)                    | [D](https://discord.naga.ac/) [T](https://t.me/chimera_ai)                                            | ❌<sup>3</sup>      | ❌     |     ❌      | ✅  | ✅  | ✅  | ✅  | Yes <sup>2</sup> | Meh <sup>3</sup> | 300/day, fixed | Successor to Chimera | 
-| GeniusAI                                      | [D](https://discord.gg/nzpvqSDGAx)                                                                    | ✅      | ❌     |    ❌     | ✅  | ✅  | ❌  | ❌  | Yes <sup>2</sup> |  High | Unlimited  | Doesn't require any API key |
+| GeniusAI                                      | [D](https://discord.gg/nzpvqSDGAx)                                                                    | ✅      | ❌     |    ❌     | ✅  | ✅  | ❌  | ❌  | Yes <sup>2</sup> |  High | Unlimited  | Change to zukijourney |
 | [Skailar](https://chat.skailar.net/)          | [D](https://discord.gg/U645yeT5T9)                                                                    | ❌<sup>3</sup>      | ❌     |    ✅<sup>4</sup>       | ✅  | ❌  | ❌  | ❌  | No | High | 100/day<sup>3</sup> | WebRaft Partner, strict ToS, offers own OSS model |
-| AIR AO | [D](https://discord.gg/CWB6uw7qJj) | ❌<sup>3</sup>  | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No | Low | Unlimited | Poor API Support
-| ElectronAI                                    | [D](https://discord.gg/YpF8fDnj)                                                                      | WIP     | WIP    |    WIP     | WIP | WIP | WIP | WIP | Yes <sup>2</sup> | WIP | WIP | Very slow release, might never come out. |
+| AIR AI| [D](https://discord.gg/CWB6uw7qJj) | ❌<sup>3</sup>  | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No | Low | Unlimited | Poor API Support|
 
 #### Layer 2's (Wrapper upon OpenAI Wrappers):
 | Service                           | Link                               | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | NSFW Ok? | Stable? | L2 Proof | Additional Notes |
 | --------------------------------- | ---------------------------------- | ------- | ------ | --------- | --- | --- | --- | --- | --- | ---  | -- | -- |
 | [CycloneGPT](https://gpt.darkcoder15.tk/)     | [M](https://matrix.to/#/#cyclonegpt:m.darkcoder15.tk) [T](https://t.me/+1waoIqepLUoxNDgy)             | ❌<sup>3</sup>      | ❌     |     ❌      | ✅  | ❌  | ✅  | ✅  | Yes <sup>2</sup> | Medium |[Here](https://prnt.sc/Mm8if4u5OfAt) | ...
-| [PurGPT](https://purgpt.xyz)      | [D](https://discord.gg/PYs95Sym2a) | ❌<sup>3</sup>      | ❌    |    ❌     | ✅  | ❌  | ❌  | ✅  | Yes | Medium-Low |[Here](https://cdn.discordapp.com/attachments/1148212638690578503/1154430995047653426/Screenshot_2023-09-21-16-56-30-939_dev.beefers.vendetta.jpg) | Currently out of providers.
-| [WaveAI](https://api.waveai.link) | [D](https://discord.gg/hEKgVbKzur) | ❌<sup>3</sup>      | ❌    |    ❌     | ❌  | ❌  | ❌  | ❌  | Yes <sup>1</sup> | Medium | [Here](https://cdn.discordapp.com/attachments/1135879401721041056/1152965535357735003/image.png) | Frequent downtime
+| [PurGPT](https://purgpt.xyz)      | [D](https://discord.gg/PYs95Sym2a) | ❌<sup>3</sup>      | ❌    |    ❌     | ✅  | ❌  | ❌  | ✅  | Yes | Medium-Low |[Here](https://cdn.discordapp.com/attachments/1148212638690578503/1154430995047653426/Screenshot_2023-09-21-16-56-30-939_dev.beefers.vendetta.jpg) | Currently out of providers.|
 
 <sup>1: NSFW allowed under special /unfiltered/ endpoint.</sup>\
 <sup>2: Has not explicitly banned the usage of the API for NSFW. </sup>\
@@ -38,6 +35,7 @@ This repository contains a list of free to use APIs for several AI models.
 | Service   | Proof |
 | --------- | ------|
 | ShuttleAI | [1](https://prnt.sc/o8n29Nq4VO86), [2](https://prnt.sc/oq8LUtO_EmeL), [3](https://prnt.sc/IvsnjL_FpkQc) |
+| zukijourney | proof soon |
 
 |Legend: |
 | -- |
@@ -70,6 +68,7 @@ For transparency: I, [@nsde](https://github.com/nsde), am the owner of *NovaAI*.
 - pawan.krd (only own models) [Discord](https://discord.gg/pawan)
 - Galaxy AI (No GPT-4, but 3.5) [Discord](https://discord.gg/UDMaAgS62q)
 - Nyx AI (No GPT-4, but 3.5) [Discord](https://discord.gg/9bqRWAP74f)
+- Wave AI (Nova Based and owner changed to Minecraft server but not API) [Discord](https://discord.gg/hEKgVbKzur)
 
 ## Star History
 
