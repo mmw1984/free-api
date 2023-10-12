@@ -55,7 +55,7 @@ This repository contains a list of free to use APIs for several AI models. This 
 > [!IMPORTANT]  
 > Data given without warranty of any kind. **As of September 2023.**
 
-For transparency: I, [@nsde](https://github.com/nsde), am the owner of *NovaAI*.
+Vortex's GitHub:  [@nsde](https://github.com/nsde), am the owner of *NovaAI*.
 
 **You are welcome to contribute to this list by opening a pull request!**
 
