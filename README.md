@@ -69,6 +69,7 @@ Vortex's GitHub:  [@nsde](https://github.com/nsde)
 - Galaxy AI (No GPT-4, but 3.5) [Discord](https://discord.gg/UDMaAgS62q)
 - Nyx AI (No GPT-4, but 3.5) [Discord](https://discord.gg/9bqRWAP74f)
 - Wave AI (Nova Based and owner changed to Minecraft server but not API) [Discord](https://discord.gg/hEKgVbKzur)
+- Skailar (Dead?) [Discord](https://discord.gg/U645yeT5T9)
 
 ## Star History
 
