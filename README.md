@@ -78,7 +78,7 @@ Vortex's GitHub:  [@nsde](https://github.com/nsde)
 
 ## Star History
 
-<a href="https://star-history.com/#NovaOSS/free-ai-apis&Date">
+<a href="https://star-history.com/#mmwong1984/free-ai-apis&Date">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=NovaOSS/free-ai-apis&type=Date&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=NovaOSS/free-ai-apis&type=Date" />
