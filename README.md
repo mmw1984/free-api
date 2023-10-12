@@ -53,9 +53,14 @@ This repository contains a list of free to use APIs for several AI models. This 
 > A lot of the services also support specific models for donators, but we are **just including the free tier** here. Some of these services give you rewards over time etc., but I'm assuming here that you only have ~10 mins of time. Moreover, we're assuming, the user wants to request the according model 5/minute and 50/hour; for gpt-4-32k and similarily expensive models 10/hour. Moreover, the timeout for a simple prompt like "1+1" is 10 seconds, images: 30 seconds (medium quality), 40 seconds (high quality).
 
 > [!IMPORTANT]  
-> Data given without warranty of any kind. **As of September 2023.**
+> Data given without warranty of any kind. **As of October 2023.**
 
 Vortex's GitHub:  [@nsde](https://github.com/nsde)
+
+## RIP
+- Vortex (NovaAI)
+- Genife (Good reverse engineer, from Chimera)
+- Guesty (Owner of Chimera)
 
 **You are welcome to contribute to this list by opening a pull request!**
 
