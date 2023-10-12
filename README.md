@@ -1,5 +1,5 @@
 # Free AI APIs
-This repository contains a list of free to use APIs for several AI models.
+This repository contains a list of free to use APIs for several AI models. This repository is based on vortex's project but he stops continuing his repository (I think?)
 
 
 ***
